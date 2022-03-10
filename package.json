@@ -5,6 +5,9 @@
     "build": "nuxi build",
     "start": "node .output/server/index.mjs"
   },
+  "dependencies": {
+    "firebase": "^9.6.7"
+  },
   "devDependencies": {
     "nuxt3": "latest"
   }
